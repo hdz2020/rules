@@ -1,5 +1,5 @@
 # rules
-rules:
+payload:
   - GEOIP,CN,国内节点
 
   - DOMAIN-SUFFIX,ieee.org,DIRECT
