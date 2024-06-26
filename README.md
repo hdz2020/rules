@@ -1,4 +1,3 @@
-# rules
 payload:
   - GEOIP,CN,国内节点
 
